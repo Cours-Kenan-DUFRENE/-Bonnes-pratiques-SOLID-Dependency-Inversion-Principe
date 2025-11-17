@@ -31,4 +31,3 @@ Tu vas le refactorer pour :
 ```text
 .
 ├── email-service.js    # code à refactorer
-└── app.js              # petit fichier de demo (optionnel)
